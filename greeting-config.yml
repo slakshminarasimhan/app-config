@@ -14,4 +14,4 @@ logging:
 greeting:
   displayFortune: true
 
-quoteServiceURL: http://quote-service-qa.apps.cumuluslabs.io
+quoteServiceURL: http://quote-service-qa.apps.cumuluslabs.io/quote
